@@ -1,0 +1,19 @@
+.pemandangan {
+    background: transparent;
+    background-image: url(jepangg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a{
+    color: white;
+
+}
+a:hover{
+    color: lightgrey;
+    text-decoration: none;
+}
+
+.icon {
+    font-size: x-large;
+}
